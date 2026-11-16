@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Chakrapani+Annamdas;Systems+Engineering+Leader;Automotive+E%2FE+Expert" alt="Typing SVG" />
+</div>
+
 # Hi there, I'm Chakrapani Annamdas 👋
 
 ### Systems Engineering Leader | Product Owner | Automotive E/E Expert
